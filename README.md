@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AdamgamerLT
 - 👀 I’m interested in computer games
 - 🌱 I’m currently learning in school
-- 💞️ I’m looking to collaborate on cracking
+- 💞️ I’m looking to collaborate on Computers
 - 📫 How to reach me in email
 
 <!---
